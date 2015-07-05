@@ -1,5 +1,13 @@
 #!/usr/bin/python
 #
+# Author: David Billsbrough <billsbrough@gmail.com>
+# Created: Sunday, July 05, 2015 at 08:23:20 AM (EDT)
+# License: Generic Open Source License
+# Warranty: None
+# Version: $Revision: 0.4 $
+#
+# Purpose: generate a RSS file for a list of audio podcasts
+#
 # $Id: fetch-podcast-data.py,v 0.4 2015/07/05 11:08:56 kc4zvw Exp kc4zvw $
 
 import os, shlex, string, subprocess, sys, time
@@ -103,7 +111,7 @@ alldata = string.split(output, "\n", MaxPodcasts)
 try:
     report = open(RSSFile, 'w')
 except IOError:
-    print("Couldi not open %s for writing data." % RSSFile)
+    print("Could not open %s for writing data." % RSSFile)
     sys.exit(1)
 
 print_header(report)

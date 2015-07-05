@@ -2,9 +2,9 @@
 
 ## Introduction
 
-## ...
+## Design:
 
-## ...
+## Todo:
 
 ## Files:
 
