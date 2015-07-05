@@ -1,0 +1,93 @@
+#
+# $Id: delta_podcast.txt,v 0.5 2015/07/05 11:27:54 kc4zvw Exp kc4zvw $
+#
+# Version = 0.1.1
+#
+
+Item: 1
+Title: Example One
+PubDate: Fri, 5 Jun 2015 16:26:24 -0400
+Links: ---
+Author: David Billsbrough
+Comments: stuff
+Category: unknown
+Audio-URL: http://rss.example.com/20150608_Mon_show.mp3
+Show-Length: 13000
+Description: Hello World!
+	this is line two
+	this is line three
+ETX:
+
+Item: 2
+Title: Example Two
+PubDate: Fri, 5 Jun 2015 16:26:24 -0400
+Links: ---
+Author: David Billsbrough
+Comments: stuff
+Category: unknown
+Audio-URL: http://rss.example.com/20150609_Tue_show.mp3
+Show-Length: 11300
+Description: Hello World!
+	this is line two
+ETX:
+
+Item: 3
+Title: Example Three
+PubDate: Fri, 5 Jun 2015 16:26:24 -0400
+Links: ---
+Author: David Billsbrough
+Comments: stuff
+Category: unknown
+Audio-URL: http://rss.example.com/20150610_Wed_show.mp3
+Show-Length: 13200
+Description: Hello World!
+	this is line two
+	this is line three
+	this is line four
+ETX:
+
+Item: 4
+Title: Example Four
+PubDate: Fri, 5 Jun 2015 16:26:24 -0400
+Links: ---
+Author: David Billsbrough
+Comments: stuff
+Category: unknown
+Audio-URL: http://rss.example.com/20150611_Thu_show.mp3
+Show-Length: 13030
+Description: Hello World!
+	this is line two
+ETX:
+
+Item: 5
+Title: Example Five
+PubDate: Fri, 5 Jun 2015 16:26:24 -0400
+Links: ---
+Author: David Billsbrough
+Comments: stuff
+Category: unknown
+Audio-URL: http://rss.example.com/20150612_Fri_show.mp3
+Show-Length: 14300
+Description: Hello World!
+	this is line two
+	this is line three
+ETX:
+
+Item: 6
+Title: Example Six
+PubDate: Sun, 5 Jul 2015 07:26:24 -0400
+Links: ---
+Author: David Billsbrough
+Comments: stuff
+Category: unknown
+Audio-URL: http://rss.example.com/20150612_Fri_show.mp3
+Show-Length: 17300
+Description: Hello World!
+	this is line two
+	this is line three
+	this is line four
+	this is line five
+	this is line six
+ETX:
+
+# End of File

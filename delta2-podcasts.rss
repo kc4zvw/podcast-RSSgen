@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="css/main.css" media="screen"?>
+<rss version="2.0">
+  <channel>
+    <generator>A RSS builder done by a little bit of magic in Python!</generator>
+    <title>The Delta II Show</title>
+    <link>http://kc4zvw.strangled.net</link>
+    <description>subtitle</description>
+    <language>en</language>
+    <managingEditor>David Billsbrough</managingEditor>
+    <webMaster>webmaster@147120.com</webMaster>
+    <copyright>Copyright 2015 by David Billsbrough. All rights reserved.</copyright>
+  <image>
+    <title>Test title</title>
+    <link>http://kc4zvw.strangled.net</link>
+    <url>http://imglogo.podbean.com/image-logo/759672/DSCF0008.jpg</url>
+    <width>144</width>
+    <height>144</height>
+  </image>
+  <item>
+    <title>Example One</title>
+    <pubDate>Fri, 5 Jun 2015 16:26:24 -0400</pubDate>
+    <link>http://rss.example.com/20150608_Mon_show.mp3</link>
+    <guid isPermaLink="true">http://rss.example.com/20150608_Mon_show.mp3</guid>
+    <description><![CDATA[Hello World! this is line two this is line three]]></description>
+  </item>
+  <item>
+    <title>Example Two</title>
+    <pubDate>Fri, 5 Jun 2015 16:26:24 -0400</pubDate>
+    <link>http://rss.example.com/20150609_Tue_show.mp3</link>
+    <guid isPermaLink="true">http://rss.example.com/20150609_Tue_show.mp3</guid>
+    <description><![CDATA[Hello World! this is line two]]></description>
+  </item>
+  <item>
+    <title>Example Three</title>
+    <pubDate>Fri, 5 Jun 2015 16:26:24 -0400</pubDate>
+    <link>http://rss.example.com/20150610_Wed_show.mp3</link>
+    <guid isPermaLink="true">http://rss.example.com/20150610_Wed_show.mp3</guid>
+    <description><![CDATA[Hello World! this is line two this is line three this is line four]]></description>
+  </item>
+  <item>
+    <title>Example Four</title>
+    <pubDate>Fri, 5 Jun 2015 16:26:24 -0400</pubDate>
+    <link>http://rss.example.com/20150611_Thu_show.mp3</link>
+    <guid isPermaLink="true">http://rss.example.com/20150611_Thu_show.mp3</guid>
+    <description><![CDATA[Hello World! this is line two]]></description>
+  </item>
+  <item>
+    <title>Example Five</title>
+    <pubDate>Fri, 5 Jun 2015 16:26:24 -0400</pubDate>
+    <link>http://rss.example.com/20150612_Fri_show.mp3</link>
+    <guid isPermaLink="true">http://rss.example.com/20150612_Fri_show.mp3</guid>
+    <description><![CDATA[Hello World! this is line two this is line three]]></description>
+  </item>
+  <item>
+    <title>Example Six</title>
+    <pubDate>Sun, 5 Jul 2015 07:26:24 -0400</pubDate>
+    <link>http://rss.example.com/20150612_Fri_show.mp3</link>
+    <guid isPermaLink="true">http://rss.example.com/20150612_Fri_show.mp3</guid>
+    <description><![CDATA[Hello World! this is line two this is line three this is line four this is line five this is line six]]></description>
+  </item>
+  </channel>
+</rss>
